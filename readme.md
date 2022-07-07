@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/walterfcarvalho](https://github.com/walterfcarvalho)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I ocasionally write articles on [Medium](Medium)
 
-- 💬 Ask me about **ADVPL, Sql Server**
+- 💬 Ask me about **ADVPL, Sql Server** Reactjs
 
 - 📫 How to reach me **@walterfcarvalho**
 
