@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/walterfcarvalho" target="blank"><img src="https://img.shields.io/twitter/follow/walterfcarvalho?logo=twitter&style=for-the-badge" alt="walterfcarvalho" /></a> </p>
 
-- 🔭 I’m currently working on [DutchBlitz Placar](https://github.com/walterfcarvalho/react-dutchBlitza-placar)
+- 🔭 I’m currently working on [My Habbits Monitor](https://github.com/walterfcarvalho/habits-monitor), 
+     Deploy on [Vercel](https://habits-monitor.vercel.app/), 
+     using Google Firebase, styled components, ReactJS, Theming
 
 - 🌱 I’m currently learning **ReactJS, Jest**
 
