@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Valter Carvalho</h1>
-<h3 align="center">Former ADVPL developer, JS developer.</h3>
+<h3 align="center">JS developer, ADVPL developer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walterfcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="walterfcarvalho" /> </p>
 
