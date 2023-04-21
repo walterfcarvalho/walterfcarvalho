@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Valter Carvalho</h1>
-<h3 align="center">Former ADVPL developer, now discovering JS world.</h3>
+<h3 align="center">Former ADVPL developer, JS developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walterfcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="walterfcarvalho" /> </p>
 
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on [My Habbits Monitor](https://github.com/walterfcarvalho/habits-monitor), 
      Deploy on [Vercel](https://habits-monitor.vercel.app/), 
      using Google Firebase, styled components, ReactJS, Theming
-
-- 🌱 I’m currently learning **ReactJS, Jest**
 
 - 👯 I’m looking to collaborate on [ADVPL import from XLSX](https://github.com/walterfcarvalho/advpl-xlsxtocsv)
 
